@@ -1,0 +1,26 @@
+POST http://localhost/add
+{:
+ name = "Imya":
+ surname = "Surname":
+ patronymic = "o4estvo":
+ birthDate = 02.11.1993:
+ groupId = "1":
+}:
+
+###
+
+POST http://localhost/add
+{:
+ name = "Imya":
+ surname = "Surname":
+ patronymic = "o4estvo":
+ birthDate = 02.11.1993:
+ groupId = "1":
+}:
+
+###
+
+POST http://localhost/add
+
+###
+
